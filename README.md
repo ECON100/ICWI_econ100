@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t-icloud-hurdler
-- 👀 I’m interested in creating container in docker for use with djangoCMS
-- 🌱 I’m currently learning Python, Django, Docker, and DjangoCMS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating container in docker for use with django mezzanine
+- 🌱 I’m currently learning Python, Django, Docker, and mezzanine for Django
+- 💞️ I’m looking to eventually collaborate on data science projects....once I have the skills
 - 📫 How to reach me ...
 
 <!---
