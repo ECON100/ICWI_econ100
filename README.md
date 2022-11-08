@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @t-icloud-hurdler
+- 👋 Hi, I’m @ronaldo
 - 👀 I’m interested in creating container in docker for use with django mezzanine
 - 🌱 I’m currently learning Python, Django, Docker, and mezzanine for Django
 - 💞️ I’m looking to eventually collaborate on data science projects....once I have the skills
